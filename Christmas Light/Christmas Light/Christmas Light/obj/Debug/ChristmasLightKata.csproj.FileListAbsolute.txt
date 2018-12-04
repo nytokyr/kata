@@ -1,0 +1,7 @@
+C:\Users\one logic\Documents\Kata\Christmas Light\Christmas Light\Christmas Light\bin\Debug\Christmas Light.exe.config
+C:\Users\one logic\Documents\Kata\Christmas Light\Christmas Light\Christmas Light\bin\Debug\Christmas Light.exe
+C:\Users\one logic\Documents\Kata\Christmas Light\Christmas Light\Christmas Light\bin\Debug\Christmas Light.pdb
+C:\Users\one logic\Documents\Kata\Christmas Light\Christmas Light\Christmas Light\obj\Debug\ChristmasLightKata.csprojAssemblyReference.cache
+C:\Users\one logic\Documents\Kata\Christmas Light\Christmas Light\Christmas Light\obj\Debug\ChristmasLightKata.csproj.CoreCompileInputs.cache
+C:\Users\one logic\Documents\Kata\Christmas Light\Christmas Light\Christmas Light\obj\Debug\Christmas Light.exe
+C:\Users\one logic\Documents\Kata\Christmas Light\Christmas Light\Christmas Light\obj\Debug\Christmas Light.pdb
